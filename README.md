@@ -1,2 +1,3 @@
-# UpdateMilestone
-Automate updating milestones in your repository
+# Update Milestone
+
+Automate updating milestones in your repository.

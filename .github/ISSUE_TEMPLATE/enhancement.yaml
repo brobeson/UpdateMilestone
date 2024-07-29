@@ -1,0 +1,19 @@
+name: Enhancement
+description: Add new functionality to the action.
+labels: [enhancement]
+assignees: [brobeson]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the action are you using?
+    validations:
+      required: true
+  - type: textarea
+    id: enhancement
+    attributes:
+      label: Enhancement
+      description: Describe the enhancement.
+    validations:
+      required: true
